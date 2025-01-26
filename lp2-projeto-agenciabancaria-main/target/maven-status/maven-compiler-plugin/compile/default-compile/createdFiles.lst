@@ -1,0 +1,11 @@
+com\mycompany\agenciabancaria\model\ContaPoupanca.class
+com\mycompany\agenciabancaria\model\Conta.class
+com\mycompany\agenciabancaria\model\ContaSalario.class
+com\mycompany\agenciabancaria\model\Titular.class
+com\mycompany\agenciabancaria\model\ContaCorrente.class
+com\mycompany\agenciabancaria\view\AgenciaBancariaView.class
+com\mycompany\agenciabancaria\model\Agencia.class
+com\mycompany\agenciabancaria\AgenciaBancaria.class
+com\mycompany\agenciabancaria\persistence\BancoPersistencia.class
+com\mycompany\agenciabancaria\model\Banco.class
+com\mycompany\agenciabancaria\controller\AgenciaController.class
